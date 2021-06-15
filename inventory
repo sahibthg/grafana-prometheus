@@ -1,0 +1,11 @@
+[prometheus]
+prometheus-server
+
+[node_exporter]
+prometheus-server
+
+[alertmanager]
+prometheus-server
+
+[grafana]
+grafana-server
